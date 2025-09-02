@@ -1,0 +1,1 @@
+# Integrating-Trivy-for-Container-Scanning-in-GitLab-CI-CD
