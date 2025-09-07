@@ -53,4 +53,4 @@ Change the .gitlab-ci.yml file to use Trivy to scan for CVEs. If any CVEs are de
 
 /.gitlab-ci.yml – pipeline config
 
-/app.py
+/app.py - application
