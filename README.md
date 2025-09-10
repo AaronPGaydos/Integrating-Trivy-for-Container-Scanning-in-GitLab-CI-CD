@@ -61,6 +61,4 @@ Change the .gitlab-ci.yml file to use Trivy to scan for CVEs. If any CVEs are de
 
 ✅ Integrated Trivy to fail builds on high/critical CVEs
 
-✅ Externalized scan logic into a reusable trivy_scan.sh script
-
-✅ Learned how to simulate chaos (vulnerable images), investigate, remediate, and enforce security in CI/CD
+✅ Simulated chaos (vulnerable images), investigate, remediate, and enforce security in CI/CD
